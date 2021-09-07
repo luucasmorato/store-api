@@ -1,0 +1,117 @@
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error undefined undefined - undefined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - Name, CPF, Phone, Email and Address is required]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info POST /client - {"name":"Usuario","cpf":"423","phone":"asdas","email":"sadsd","address":"asdasd"}]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function createClient]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function createClient]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - syntax error at or near "INSET"]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - column "phone" of relation "clients" does not exist]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - column "phone" of relation "clients" does not exist]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - column "phone" of relation "clients" does not exist]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info POST /client - {"name":"Usuario","cpf":"12312312323","phone":"31123212323","email":"sadsd@asds","address":"asdasd"}]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info POST /client - {"name":"Usuario2","cpf":"12312312323","phone":"31123212323","email":"sadsd@asds","address":"asdasd"}]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info POST /client - {"name":"Usuario3","cpf":"12312312323","phone":"31123212323","email":"sadsd@asds","address":"asdasd"}]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info POST /client - {"name":"Usuario4","cpf":"12312312323","phone":"31123212323","email":"sadsd@asds","address":"asdasd"}]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error GET  - conn is not defined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info DELETE /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - Client ID, Name, CPF, Phone, Email and Address is required]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error GET  - Unexpected string in JSON at position 29]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - client is not defined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - client is not defined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - client is not defined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - client is not defined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - client is not defined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - client is not defined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info PUT /client - {"client_id":1,"name":"haha","cpf":"111","phone":"111","email":"111@asds","address":"111"}]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]

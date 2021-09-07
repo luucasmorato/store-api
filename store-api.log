@@ -1,0 +1,45 @@
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info POST /client - {"name":"Usuario3","cpf":"12312312323","phone":"31123212323","email":"sadsd@asds","address":"asdasd"}]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - client is not defined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - client is not defined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - client is not defined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /client]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - client is not defined]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /supplier]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - Name, CNPJ, Phone, Email and Address is required]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info POST /supplier - {"name":"haha","cnpj":"111","phone":"111","email":"111@asds","address":"111"}]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info POST /supplier - {"name":"haha","cnpj":"111","phone":"111","email":"111@asds","address":"111"}]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /supplier]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /supplier]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info DELETE /supplier]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /supplier]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /supplier]
