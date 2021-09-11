@@ -43,3 +43,39 @@ function createFormatWrap(opts) {
 function createFormatWrap(opts) {
     return new Format(opts);
   } [store-api info GET /supplier]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /product]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - invalid input syntax for integer: "111@asds"]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /supplier]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info POST /product - {"name":"haha","description":"111","value":"111","stock":1,"supplier_id":2}]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info POST /product - {"name":"AUSHUAH","description":"111","value":"111","stock":1,"supplier_id":2}]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /product]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /product]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info DELETE /product]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /product]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api info GET /product]
