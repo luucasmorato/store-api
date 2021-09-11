@@ -79,3 +79,15 @@ function createFormatWrap(opts) {
 function createFormatWrap(opts) {
     return new Format(opts);
   } [store-api info GET /product]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - insert or update on table "products" violates foreign key constraint "fk_suppliers"]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - supplier_id not exists.]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error POST  - supplier_id not exists.]
+function createFormatWrap(opts) {
+    return new Format(opts);
+  } [store-api error PUT  - Product ID, Name, description, value, stock and supplier_id is required]
